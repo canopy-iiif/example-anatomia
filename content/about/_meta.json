@@ -3,9 +3,12 @@
     "path": "/about",
     "text": "Historia"
   },
-
   {
     "path": "/about/triage",
     "text": "Triage"
+  },
+  {
+    "path": "/about/variolae",
+    "text": "Variolae"
   }
 ]

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[881],{8881:function(a){a.exports=JSON.parse('{"collection":"https://raw.githubusercontent.com/canopy-iiif/example-anatomia/main/public/anatomia.json","metadata":["dateIssued"],"label":{"none":["Anatatomia"]},"summary":{"none":["Anatomia Collection: anatomical plates 1522-1867 Navigation menu"]}}')}}]);

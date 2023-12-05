@@ -2,5 +2,10 @@
   {
     "path": "/about",
     "text": "Historia"
+  },
+
+  {
+    "path": "/about/triage",
+    "text": "Triage"
   }
 ]

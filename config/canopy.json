@@ -11,6 +11,6 @@
   },
   "theme": {
     "defaultTheme": "light",
-    "toggleEnabled": false
+    "toggleEnabled": true
   }
 }

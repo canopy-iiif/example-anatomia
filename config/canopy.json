@@ -4,8 +4,8 @@
   "featured": [
     "https://iiif.library.utoronto.ca/presentation/v2/anatomia:RBAI038/manifest"
   ],
-  "label": { "none": ["Anatatomia"] },
+  "label": { "none": ["Anatomia Humana"] },
   "summary": {
-    "none": ["Anatomia Collection: anatomical plates 1522-1867 Navigation menu"]
+    "none": ["Historica Synopsis 1522-1867"]
   }
 }

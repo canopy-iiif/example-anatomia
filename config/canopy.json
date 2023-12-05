@@ -9,8 +9,7 @@
   "summary": {
     "none": ["Historica Synopsis 1522-1867"]
   },
-  {
-    "theme": {
+  "theme": {
     "defaultTheme": "light",
     "toggleEnabled": false
   }

@@ -1,6 +1,9 @@
 {
   "collection": "https://raw.githubusercontent.com/canopy-iiif/example-anatomia/main/public/anatomia.json",
   "metadata": ["dateIssued"],
+  "featured": [
+    "https://iiif.library.utoronto.ca/presentation/v2/anatomia:RBAI038/manifest"
+  ],
   "label": { "none": ["Anatatomia"] },
   "summary": {
     "none": ["Anatomia Collection: anatomical plates 1522-1867 Navigation menu"]

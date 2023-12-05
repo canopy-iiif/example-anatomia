@@ -1,4 +1,5 @@
 {
+  "@context": "http://iiif.io/api/presentation/3/context.json",
   "id": "https://canopy-iiif.github.io/example-anatomia/anatomia.json",
   "type": "Collection",
   "label": {

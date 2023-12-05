@@ -7,5 +7,10 @@
   "label": { "none": ["Anatomia Humana"] },
   "summary": {
     "none": ["Historica Synopsis 1522-1867"]
+  },
+  {
+    "theme": {
+    "defaultTheme": "light",
+    "toggleEnabled": false
   }
 }

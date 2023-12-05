@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://canopy-iiif.github.io/anatomia
+Host: https://canopy-iiif.github.io/example-anatomia
 
 # Sitemaps
-Sitemap: https://canopy-iiif.github.io/anatomia/sitemap.xml
+Sitemap: https://canopy-iiif.github.io/example-anatomia/sitemap.xml
